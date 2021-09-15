@@ -18,3 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## version 1.0
 
 - tutorial for flutter, from [original documents](https://flutter.io/docs/get-started/codelab)
+
+## version 2.0
+
+- flutter with MVVM, prepare [tutorial](https://viblo.asia/p/flutter-va-mvvm-L4x5xk4alBM)
